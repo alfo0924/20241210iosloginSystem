@@ -26,3 +26,12 @@
 - 當數據改變時自動更新對應的視圖元件[3]
 - 採用單向數據流模式，使數據流轉更清晰可控[3]
 
+
+
+
+需要先安裝 KeychainSwift 套件。在 Xcode 中按照以下步驟操作：
+
+1. 選擇 File > Add Packages
+2. 在搜索欄輸入：https://github.com/evgenyneu/keychain-swift.git
+3. 點擊 Add Package 完成安裝
+
